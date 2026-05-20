@@ -37,3 +37,4 @@ coverage/
 # Supabase
 supabase/.branches/
 supabase/.temp/
+apps/web/tsconfig.tsbuildinfo
